@@ -39,7 +39,7 @@ This function uses Tkinter module of python to generate an admit card(GUI).
 Notifications and Super-User:
 The notifications are displayed on the starting(home) page. The notifications can't be changed by any normal registered user except the super-user which is only for the hosting organisation.
 **************************************************************************************************************************************
-Accsessing Super-User:
+Accessing Super-User:
 1. When terminal asks to enter 1-for Login and 2-for Registartion, enter "#$%&*" (without quotes) to enter the super user mode.
 2. Enter "admin007" as the superuser name and "!@#$%^&*" as Security Code.
 3. The cursor will wait for you to enter a new notification to be displayed under Notifications on the start page.
