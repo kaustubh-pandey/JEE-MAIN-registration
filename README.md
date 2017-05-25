@@ -1,8 +1,9 @@
 # JEE-MAIN-registration
 Author(s): Kaustubh Pandey , Ashish Kumar Patel
 ----------------------------------------------------------------------------------------------------------------------------------------
-*Needs Python 2 
+*Needs Python 2*
 This application lets an organisation to host online exam like JEE MAIN by providing registration facilities.
+
 How to use:
 -----------------------------------------------------------------------------------------------------------------------------------------
 1. Download all the files and keep them in the same folder
