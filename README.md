@@ -10,6 +10,7 @@ How to use:
 2. Run a.py file using Python 2 on Terminal
 3. Follow the instructions on the Terminal
 *All the database is stored in the same folder*
+
 Features availabe:
 ------------------------------------------------------------------------------------------------------------------------------------------
 1. Registration
@@ -19,6 +20,7 @@ Features availabe:
 5. Super-user mode(for exam hosting organisation)
 6. Notifications
 7. Password Encryption
+
 Description:
 ------------------------------------------------------------------------------------------------------------------------------------------
 Registration:
